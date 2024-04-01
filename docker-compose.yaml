@@ -6,4 +6,4 @@ services:
     ports:
       - 8080:8080
     environment:
-      - API_KEY=
+      - API_KEY=RGAPI-12f5a0cf-2d35-415e-b2bd-20121754997c-MIERDA, otra vez se me colo.
